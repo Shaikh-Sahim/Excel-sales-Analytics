@@ -1,4 +1,4 @@
-# Excel-sales-Analytics
+# Atliq Technologies Sales Insights
 ## Sales Report :
 
 - **Project objective:** 
